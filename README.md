@@ -139,8 +139,7 @@ Me chamo Thiago Rodrigues, moro em Porto Alegre-RS e atualmente sou estudante de
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagosrdg&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagosrdg&theme=tokyonight&layout=compact&custom_title=Linguagens de Programação&langs_count=9" 
   />
 
 </p>
-
