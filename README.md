@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Back-End`**
 
-Olá! Me chamo Thiago Rodrigues e moro em Porto Alegre-RS. Sou desenvolvedor Fullstack e estudante de Ciência da Computação na Unisinos. Os meus principais interesses envolvem a programação e inteligência artificial. 😁💻🎮
+Olá! Me chamo Thiago Rodrigues e moro em Porto Alegre-RS. Sou desenvolvedor Fullstack e estudante de Ciência da Computação na Unisinos. Os meus principais interesses envolvem o desenvolvimento de software e inteligência artificial. 😁💻🎮
 
 ---
 
