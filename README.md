@@ -58,11 +58,11 @@ Olá! Me chamo Thiago Rodrigues e moro em Porto Alegre-RS. Sou desenvolvedor Ful
 />
 <img 
     align="left" 
-    alt="springboot"
-    title="springboot" 
+    alt="css"
+    title="css" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/springboot/springboot-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css/css-original.svg" 
 />
  
 <br/>
