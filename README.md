@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Fullstack`**
 
-Olá! Me chamo Thiago Rodrigues e moro em Porto Alegre-RS. Sou desenvolvedor Fullstack e estudante de Ciência da Computação na Unisinos. Os meus principais interesses envolvem o desenvolvimento de software, cybersegurança e inteligência artificial. 😁💻🎮
+Olá! Me chamo Thiago Rodrigues e moro em Porto Alegre-RS. Sou desenvolvedor Fullstack e estudante de Ciência da Computação na Unisinos. Os meus principais interesses envolvem cybersegurança e inteligência artificial. 😁💻🎮
 
 ---
 
@@ -26,11 +26,11 @@ Olá! Me chamo Thiago Rodrigues e moro em Porto Alegre-RS. Sou desenvolvedor Ful
 />
 <img 
     align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
+    alt="C" 
+    title="C"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/C/C-original.svg" 
 />
 <img 
     align="left" 
