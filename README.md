@@ -1,4 +1,4 @@
-**`Fullstack Developer`**
+**`Fullstack Developer`** **`Software Engineer`** **`Cybersecurity`** **`Machine Learning`**
 
 Hi,
 
