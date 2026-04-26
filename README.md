@@ -1,6 +1,4 @@
-# Thiago Rodrigues
-
-**`Desenvolvedor Fullstack`**
+**`Fullstack Developer`**
 
 Hi,
 
@@ -10,7 +8,7 @@ I’m particularly interested in backend development, secure systems, applied AI
 
 ---
 
-### 🤖 Linguagens de Programação e Tecnologias 
+### Programming Languages
 
 <img 
     align="left" 
