@@ -61,7 +61,7 @@ I’m particularly interested in backend development, secure systems, applied AI
 <br/>
 <br/>
 
-### 📊 Estatísticas
+###
 
 <p>
 
@@ -69,7 +69,7 @@ I’m particularly interested in backend development, secure systems, applied AI
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagosrdg&theme=tokyonight&layout=compact&custom_title=Linguagens&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagosrdg&theme=tokyonight&layout=compact&custom_title=Programming Statistics&langs_count=9" 
   />
 
 </p>
