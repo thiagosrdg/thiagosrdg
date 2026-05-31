@@ -4,64 +4,21 @@ Hi,
 
 I'm a software developer and Computer Science student with a strong interest in software engineering, cybersecurity, and artificial intelligence. My work is focused on building reliable, scalable, and well-structured software.
 
-I’m particularly interested in backend development, secure systems, applied AI, and the intersection between software architecture and security.
+I'm particularly interested in backend development, secure systems, applied AI, and the intersection between software architecture and security.
 
 ---
 
-### Programming Languages
+### Skills
 
-<img 
-    align="left" 
-    alt="python"
-    title="python" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Java" 
-    title="Java"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="C" 
-    title="C"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="C++t"
-    title="C++" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="C#" 
-    title="C#"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
-/> 
-<br/>
-<br/>
+[![My Skills](https://skillicons.dev/icons?i=java,python,c,cpp,cs,js,ts,react,tailwind,mysql,unity,linux,kali,aws)](https://skillicons.dev)
 
 ###
 
 <p>
-
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagosrdg&theme=tokyonight&layout=compact&custom_title=Linguagens&langs_count=9" 
   />
-
 </p>
