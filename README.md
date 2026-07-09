@@ -2,9 +2,7 @@
 
 Hi,
 
-I'm a software developer and Computer Science student with a strong interest in software engineering, cybersecurity, and artificial intelligence. My work is focused on building reliable, scalable, and well-structured software.
-
-I'm particularly interested in backend development, secure systems, applied AI, and the intersection between software architecture and security.
+I'm a software developer and Computer Science student with a strong interest in software engineering, cybersecurity, and artificial intelligence. 
 
 ---
 
