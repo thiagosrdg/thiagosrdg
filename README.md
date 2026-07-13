@@ -8,7 +8,7 @@ I'm a software developer and Computer Science student with a strong interest in 
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=java,python,c,cpp,cs,js,ts,react,tailwind,mysql,unity,linux,kali,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,c,cpp,linux,kali,aws)](https://skillicons.dev)
 
 ###
 
