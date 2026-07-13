@@ -12,9 +12,9 @@ Programming
 
 [![My Skills](https://skillicons.dev/icons?i=python,java,c,cpp)](https://skillicons.dev)
 
-Operating Systems
+Operating Systems & Shells
 
-[![My Skills](https://skillicons.dev/icons?i=linux,kali,arch,debian,bash)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,kali,arch,debian,bash,powershell)](https://skillicons.dev)
 
 Frameworks, Tools & Cloud
 
