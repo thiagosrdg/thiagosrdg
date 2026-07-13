@@ -12,7 +12,7 @@ Programming
 
 [![My Skills](https://skillicons.dev/icons?i=python,java,c,cpp)](https://skillicons.dev)
 
-Operating Systems & Shells
+Operating Systems
 
 [![My Skills](https://skillicons.dev/icons?i=linux,kali,arch,debian,bash)](https://skillicons.dev)
 
