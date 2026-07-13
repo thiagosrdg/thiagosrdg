@@ -12,13 +12,13 @@ Programming
 
 [![My Skills](https://skillicons.dev/icons?i=python,java,c,cpp)](https://skillicons.dev)
 
-Operating Systems & Shells
+Operating Systems
 
-[![My Skills](https://skillicons.dev/icons?i=linux,kali,arch,debian,bash,powershell)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,kali,arch,debian)](https://skillicons.dev)
 
 Frameworks, Tools & Cloud
 
-[![My Skills](https://skillicons.dev/icons?i=tensorflow,pytorch,git,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=tensorflow,pytorch,git,bash,powershell,aws)](https://skillicons.dev)
 
 
 ###
